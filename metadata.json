@@ -1,0 +1,6 @@
+{
+  "name": "Servidor Satelital",
+  "description": "#1 Starlink Provider in NOA & LatAm",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
